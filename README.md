@@ -1,10 +1,9 @@
 # HwangSumin0313.web
 
-## JSP 기반 게시판
-
 JSP 자바 웹 게시판입니다.
 부트 스트랩을 이용한 레이아웃을 바탕으로 간단한 CRUD 기능이 구현되어 있습니다.
 
+***
 
 ### 회원가입 / 로그인
 
@@ -14,6 +13,7 @@ JSP 자바 웹 게시판입니다.
 ![login](/Images/login.PNG)
 ![login](/Images/join.PNG)
 
+***
 
 ### 메인 페이지
 
@@ -21,6 +21,7 @@ JSP 자바 웹 게시판입니다.
 
 ![main](/Images/main.PNG)
 
+***
 
 ### 게시글 
 
@@ -28,6 +29,7 @@ JSP 자바 웹 게시판입니다.
 
 ![content](/Images/content.PNG)
 
+***
 
 ### 글 작성 
 
@@ -35,6 +37,7 @@ JSP 자바 웹 게시판입니다.
 
 ![write](/Images/write.PNG)
 
+***
 
 ### 회원 관리 
 
