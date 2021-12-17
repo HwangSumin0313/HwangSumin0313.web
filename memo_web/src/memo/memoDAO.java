@@ -36,4 +36,19 @@ public class memoDAO {
       return -1;
     } 
   }
+  
+  public int editOK(int memoid, String title, String content) {
+	    try {
+	      this.pstmt = this.conn.prepareStatement("update memo set title=?, content=? where memoid=?");
+	      
+	      this.pstmt.setString(1, title);
+	      this.pstmt.setString(2, content);
+	      this.pstmt.setInt(3, memoid);
+	      this.pstmt.executeUpdate();
+	      return 1;
+	    } catch (Exception e) {
+	      e.printStackTrace();
+	      return -1;
+	    } 
+	  }
 }
