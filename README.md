@@ -1,8 +1,8 @@
 # HwangSumin0313.web
 
 JSP 자바 웹 게시판입니다.
-부트 스트랩을 이용한 레이아웃을 바탕으로 간단한 CRUD 기능이 구현되어 있습니다.
-Oracle DB와 Tomcat Server를 이용하여 회원 데이터를 관리합니다. 
+부트 스트랩(Bootstrap)을 이용한 레이아웃을 바탕으로 간단한 CRUD 기능이 구현되어 있습니다.
+아파치 톰캣(Apache Tomcat) 서버를 사용하고 오라클(Oracle) DB를 이용하여 회원 데이터를 관리합니다. 
 
 ***
 
